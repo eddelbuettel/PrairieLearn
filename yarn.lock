@@ -3478,7 +3478,7 @@ __metadata:
     coveralls: ^3.1.1
     crypto-js: ^4.1.1
     csv-parse: ^5.3.5
-    csv-stringify: ^6.2.4
+    csv-stringify: ^6.3.0
     csvtojson: ^2.0.10
     d3: ^7.8.2
     date-fns: ^2.29.3
@@ -5404,10 +5404,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"csv-stringify@npm:^6.2.4":
-  version: 6.2.4
-  resolution: "csv-stringify@npm:6.2.4"
-  checksum: 12d8ab299735ad6c1ca90b37d900d66ef0fcc4289f565df7c67cbeed33f2de56daeae19094a215aa7d3bde8877c0a105f1aeb531e4f582d7561f213b0680c99d
+"csv-stringify@npm:^6.3.0":
+  version: 6.3.0
+  resolution: "csv-stringify@npm:6.3.0"
+  checksum: d2503ad298b6f432bae5932af365fb1a5f8f51b31a170d8e1c0735cb89193cb665976754612800c3302570bf7086749d60a30d97d820cc3a7c9b7cd4a49fd311
   languageName: node
   linkType: hard
 
