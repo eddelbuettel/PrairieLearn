@@ -1975,7 +1975,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@opentelemetry/core@npm:1.9.1, @opentelemetry/core@npm:^1.0.0, @opentelemetry/core@npm:^1.8.0, @opentelemetry/core@npm:^1.9.1":
+"@opentelemetry/core@npm:1.9.1, @opentelemetry/core@npm:^1.0.0, @opentelemetry/core@npm:^1.8.0":
   version: 1.9.1
   resolution: "@opentelemetry/core@npm:1.9.1"
   dependencies:
@@ -1983,6 +1983,17 @@ __metadata:
   peerDependencies:
     "@opentelemetry/api": ">=1.0.0 <1.5.0"
   checksum: 5581a809e2caff142136734634f45255ce9f1ed701cf38629b9e17d91a8d15449b467fb3a7f3d0d8b076f653090e50cc31d3b1db4cfefeda9b6b901c60581024
+  languageName: node
+  linkType: hard
+
+"@opentelemetry/core@npm:^1.13.0":
+  version: 1.13.0
+  resolution: "@opentelemetry/core@npm:1.13.0"
+  dependencies:
+    "@opentelemetry/semantic-conventions": 1.13.0
+  peerDependencies:
+    "@opentelemetry/api": ">=1.0.0 <1.5.0"
+  checksum: a69916bcb710f1241e98a58ac5f5dfbc3372fdcd6cb2a4b2d33cdeb941765ecbdeea029f60f650a5743a56f583b0f06b672566467b89db84a24f1304bf2e5205
   languageName: node
   linkType: hard
 
@@ -2383,6 +2394,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@opentelemetry/semantic-conventions@npm:1.13.0":
+  version: 1.13.0
+  resolution: "@opentelemetry/semantic-conventions@npm:1.13.0"
+  checksum: 9cccf1d73315fed3920bb2201c0e82f66e58dddfa475314b6613780c2804570d6f657be3894eb8b84a2a543c9b8cd520587f5d6cd4b62bc6731d7299b4c5ee69
+  languageName: node
+  linkType: hard
+
 "@opentelemetry/semantic-conventions@npm:1.9.1, @opentelemetry/semantic-conventions@npm:^1.0.0, @opentelemetry/semantic-conventions@npm:^1.9.1":
   version: 1.9.1
   resolution: "@opentelemetry/semantic-conventions@npm:1.9.1"
@@ -2532,7 +2550,7 @@ __metadata:
   dependencies:
     "@grpc/grpc-js": ^1.8.11
     "@opentelemetry/api": ^1.4.0
-    "@opentelemetry/core": ^1.9.1
+    "@opentelemetry/core": ^1.13.0
     "@opentelemetry/exporter-jaeger": ^1.9.1
     "@opentelemetry/exporter-metrics-otlp-grpc": ^0.35.1
     "@opentelemetry/exporter-trace-otlp-grpc": ^0.35.1
