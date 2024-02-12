@@ -36,7 +36,7 @@
     "express": "^4.18.2",
     "fetch-cookie": "^2.2.0",
     "mocha": "^10.2.0",
-    "node-fetch": "^2.7.0",
+    "node-fetch": "^3.3.2",
     "set-cookie-parser": "^2.6.0",
     "source-map-support": "^0.5.21",
     "tsx": "^4.7.0",
