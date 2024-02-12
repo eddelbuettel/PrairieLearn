@@ -2556,9 +2556,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@opentelemetry/instrumentation-aws-sdk@npm:^0.38.0":
-  version: 0.38.0
-  resolution: "@opentelemetry/instrumentation-aws-sdk@npm:0.38.0"
+"@opentelemetry/instrumentation-aws-sdk@npm:^0.38.1":
+  version: 0.38.1
+  resolution: "@opentelemetry/instrumentation-aws-sdk@npm:0.38.1"
   dependencies:
     "@opentelemetry/core": ^1.8.0
     "@opentelemetry/instrumentation": ^0.48.0
@@ -2566,7 +2566,7 @@ __metadata:
     "@opentelemetry/semantic-conventions": ^1.0.0
   peerDependencies:
     "@opentelemetry/api": ^1.3.0
-  checksum: 7438a8f727eb8dfe857daf32ae580b851a123f2e6ecf2ae1f2643b0b73331fe259e41a959a9d21f153896da55d382f31ff803607fd439e8c096fd88f5e65e61b
+  checksum: 87f734ff4024ec7b9e77fbe31b69ce95c262b80331c08ca91a30f8f982a397dedb625f105ddd0ed1abe46ebfbb96cfa808fd702445c9adedc737a3f5fb6132e5
   languageName: node
   linkType: hard
 
@@ -3234,7 +3234,7 @@ __metadata:
     "@opentelemetry/exporter-metrics-otlp-grpc": ^0.48.0
     "@opentelemetry/exporter-trace-otlp-grpc": ^0.48.0
     "@opentelemetry/instrumentation": ^0.48.0
-    "@opentelemetry/instrumentation-aws-sdk": ^0.38.0
+    "@opentelemetry/instrumentation-aws-sdk": ^0.38.1
     "@opentelemetry/instrumentation-connect": ^0.33.0
     "@opentelemetry/instrumentation-dns": ^0.33.0
     "@opentelemetry/instrumentation-express": ^0.35.0
