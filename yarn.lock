@@ -1908,7 +1908,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@grpc/grpc-js@npm:^1.7.1, @grpc/grpc-js@npm:^1.9.14":
+"@grpc/grpc-js@npm:^1.10.1":
+  version: 1.10.1
+  resolution: "@grpc/grpc-js@npm:1.10.1"
+  dependencies:
+    "@grpc/proto-loader": ^0.7.8
+    "@types/node": ">=12.12.47"
+  checksum: 5842c1c3ffcb630a1ee45998733861a16f8f6db4fe78f317f6be25ddf581040dc38e8c09aed7073dfae1a7099a3c83658ca8f3db77c0bc3b0e40625618245bd0
+  languageName: node
+  linkType: hard
+
+"@grpc/grpc-js@npm:^1.7.1":
   version: 1.9.14
   resolution: "@grpc/grpc-js@npm:1.9.14"
   dependencies:
@@ -3226,7 +3236,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@prairielearn/opentelemetry@workspace:packages/opentelemetry"
   dependencies:
-    "@grpc/grpc-js": ^1.9.14
+    "@grpc/grpc-js": ^1.10.1
     "@opentelemetry/api": ^1.7.0
     "@opentelemetry/context-async-hooks": ^1.21.0
     "@opentelemetry/core": ^1.21.0
