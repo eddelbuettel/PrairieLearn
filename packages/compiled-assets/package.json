@@ -17,11 +17,11 @@
   "dependencies": {
     "@prairielearn/html": "workspace:^",
     "commander": "^13.1.0",
-    "esbuild": "^0.25.5",
+    "esbuild": "^0.25.11",
     "express-static-gzip": "^2.2.0",
-    "fs-extra": "^11.3.0",
+    "fs-extra": "^11.3.2",
     "globby": "^14.1.0",
-    "pretty-bytes": "^7.0.0",
+    "pretty-bytes": "^7.1.0",
     "tmp-promise": "^3.0.3"
   },
   "devDependencies": {
@@ -31,8 +31,8 @@
     "express": "^4.21.2",
     "get-port": "^7.1.0",
     "node-fetch": "^3.3.2",
-    "tsx": "^4.19.4",
-    "typescript": "^5.8.3",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3",
     "vitest": "^3.2.2"
   }
 }
