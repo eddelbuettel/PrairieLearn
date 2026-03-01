@@ -7,7 +7,7 @@ mkdocs-literate-nav==0.6.2
 mkdocs-material==9.6.14
 mkdocs==1.6.1
 mkdocstrings-python==1.16.11
-mkdocstrings==0.29.1
+mkdocstrings==1.0.3
 pymdown-extensions==10.15
 # mkdocstrings-python will format the docstrings using ruff
 # https://mkdocstrings.github.io/python/usage/configuration/signatures/#line_length
