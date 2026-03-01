@@ -3,7 +3,7 @@ automata-lib==9.0.0
 chevron==0.14.0
 coloraide==4.6
 Faker==37.3.0
-lxml==5.4.0
+lxml==6.0.2
 matplotlib==3.10.1
 networkx==3.4.2
 nltk==3.9.1
